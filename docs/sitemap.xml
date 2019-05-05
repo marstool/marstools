@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="hddp://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="hddp://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/01_apk_tools/</loc>
+  </url>
+  
+  <url>
+    <loc>/02_openvpn/</loc>
+  </url>
+  
+  <url>
+    <loc>/03_apple/</loc>
+  </url>
+  
+  <url>
+    <loc>/04_weichat/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
